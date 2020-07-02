@@ -1,2 +1,3 @@
-# uri-c-sharp
-Exercícios resolvidos - Uri Online Judge em C#
+# Uri Online Judge - C#
+
+Exercícios resolvidos.
