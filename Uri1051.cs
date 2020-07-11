@@ -6,7 +6,7 @@ class Uri1051 {
     static void Main(string[] args) { 
 
         double imposto;
-		double salario = Convert.ToDouble(Console.ReadLine());
+		double salario = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 		
 		if (salario <= 2000.0) {
 			imposto = 0.0;
