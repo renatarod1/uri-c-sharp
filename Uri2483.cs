@@ -1,6 +1,6 @@
 using System; 
 
-class URI2483 {
+class Uri2483 {
 
     static void Main(string[] args) { 
 
